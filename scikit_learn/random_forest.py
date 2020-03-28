@@ -36,7 +36,7 @@ for X,Y in zip([X_train, X_test],[y_train, y_test]):
 
     # make predictions and compute root mean square error
     y_pred = model.predict(X)
-    error = np.sqrt(np.mean(y_pred-Y)**2)
+    error = np.sqrt(np.mean((y_pred-Y)**2))
     print('rmse = %.3e'%error)
 
 # get the feature importance. A 1D array that sums to 1.
