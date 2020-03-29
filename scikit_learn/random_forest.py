@@ -29,7 +29,7 @@ start = time.time()
 model = RandomForestRegressor(n_estimators=n_estimators, 
                               min_samples_leaf=min_samples_leaf, n_jobs=n_jobs)
 model.fit(X_train, y_train)
-print 'Time taken %.1f seconds'%(time.time()-start)
+print('Time taken %.1f seconds'%(time.time()-start))
 
 # compute errors on training and test sets
 for X,Y in zip([X_train, X_test],[y_train, y_test]):
