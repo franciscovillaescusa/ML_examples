@@ -1,3 +1,5 @@
 Some useful things
 
-$ a = \sqrt{3} $
+\begin{equation}
+a = \sqrt{3}
+\end{equation}
