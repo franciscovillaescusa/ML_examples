@@ -1,5 +1,3 @@
 Some useful things
 
-\begin{equation}
-a = \sqrt{3}
-\end{equation}
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
