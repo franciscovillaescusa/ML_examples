@@ -1,5 +1,5 @@
 Some useful things
 
+Size after applying convolutional neural nets:
 
-
-<img src="https://render.githubusercontent.com/render/math?math=\frac{size + 2padding - kernel}{stride} + 1">
+<img src="https://render.githubusercontent.com/render/math?math=\frac{{\rm size} + 2{\rm padding} - {\rm kernel}}{{\rm stride]}} + 1">
