@@ -81,6 +81,11 @@ For Transposed convolutional neural nets the expression reads
 {\rm SIZE_{OUT}} = ({\rm SIZE_{IN}-1}){\rm STRIDES} - 2{\rm PADDING} + {\rm KERNEL}
 \end{equation}
 
+When training CNNs, the dimensions of the images to input into the network should be
+\begin{equation}
+[ {\rm BATCH\,\,SIZE, \,\,CHANNELS, \,\,HEIGHT, \,\,WIDTH} ]
+\end{equation}
+
 %\appendix
 
 
