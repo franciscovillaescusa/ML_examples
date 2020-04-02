@@ -14,6 +14,8 @@ Some useful links:
 
 [WGAN paper](https://arxiv.org/abs/1701.07875)
 
+[DCGAN tutorial](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html)
+
 [from GAN to WGAN](https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html)
 
 [Tricks to train GANs](https://www.youtube.com/watch?time_continue=1&v=X1mUN6dD8uE&feature=emb_logo)
