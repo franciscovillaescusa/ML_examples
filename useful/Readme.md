@@ -21,3 +21,7 @@ Some useful links:
 [Tricks to train GANs](https://www.youtube.com/watch?time_continue=1&v=X1mUN6dD8uE&feature=emb_logo)
 
 [GAN failure mode](https://machinelearningmastery.com/practical-guide-to-gan-failure-modes/)
+
+## Saliency maps
+
+[Saliency maps](https://medium.com/datadriveninvestor/visualizing-neural-networks-using-saliency-maps-in-pytorch-289d8e244ab4)
