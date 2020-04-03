@@ -25,3 +25,7 @@ Some useful links:
 ## Saliency maps
 
 [Saliency maps](https://medium.com/datadriveninvestor/visualizing-neural-networks-using-saliency-maps-in-pytorch-289d8e244ab4)
+
+## VAE
+
+[f-VAE paper](https://arxiv.org/pdf/1809.05861.pdf)
