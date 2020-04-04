@@ -20,6 +20,8 @@ Some useful links:
 
 [Tricks to train GANs](https://www.youtube.com/watch?time_continue=1&v=X1mUN6dD8uE&feature=emb_logo)
 
+[Tricks to train GANs](https://github.com/soumith/ganhacks)
+
 [GAN failure mode](https://machinelearningmastery.com/practical-guide-to-gan-failure-modes/)
 
 ## Saliency maps
