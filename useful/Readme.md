@@ -14,6 +14,8 @@ Some useful links:
 
 [WGAN paper](https://arxiv.org/abs/1701.07875)
 
+[WGAN github](https://github.com/martinarjovsky/WassersteinGAN)
+
 [DCGAN tutorial](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html)
 
 [from GAN to WGAN](https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html)
