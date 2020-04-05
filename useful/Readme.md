@@ -24,6 +24,8 @@ Some useful links:
 
 [Tricks to train GANs](https://github.com/soumith/ganhacks)
 
+[Tricks to train GANs 2](https://towardsdatascience.com/10-lessons-i-learned-training-generative-adversarial-networks-gans-for-a-year-c9071159628)
+
 [GAN failure mode](https://machinelearningmastery.com/practical-guide-to-gan-failure-modes/)
 
 ## Saliency maps
