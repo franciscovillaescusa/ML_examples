@@ -39,3 +39,7 @@ Some useful links:
 ## VAE
 
 [f-VAE paper](https://arxiv.org/pdf/1809.05861.pdf)
+
+## Anomaly detection
+
+[Anomaly detection resources](https://github.com/yzhao062/anomaly-detection-resources)
