@@ -38,6 +38,8 @@ Some useful links:
 
 ## VAE
 
+[VAE pytorch](https://github.com/ReyhaneAskari/pytorch_experiments/blob/master/VAE.py)
+
 [f-VAE paper](https://arxiv.org/pdf/1809.05861.pdf)
 
 ## Anomaly detection
