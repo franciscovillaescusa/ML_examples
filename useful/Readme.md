@@ -36,7 +36,9 @@ Some useful links:
 
 [Saliency maps](https://medium.com/datadriveninvestor/visualizing-neural-networks-using-saliency-maps-in-pytorch-289d8e244ab4)
 
-## VAE
+## Autoencoders
+
+[VAE nice explanation](https://towardsdatascience.com/intuitively-understanding-variational-autoencoders-1bfe67eb5daf)
 
 [VAE pytorch](https://github.com/ReyhaneAskari/pytorch_experiments/blob/master/VAE.py)
 
@@ -45,3 +47,5 @@ Some useful links:
 ## Anomaly detection
 
 [Anomaly detection resources](https://github.com/yzhao062/anomaly-detection-resources)
+
+[GANs for anomaly detection](https://arxiv.org/pdf/1906.11632.pdf)
