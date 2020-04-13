@@ -40,6 +40,8 @@ Some useful links:
 
 [VAE nice explanation](https://towardsdatascience.com/intuitively-understanding-variational-autoencoders-1bfe67eb5daf)
 
+[VAE nice explanation2](https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73)
+
 [VAE pytorch](https://github.com/ReyhaneAskari/pytorch_experiments/blob/master/VAE.py)
 
 [f-VAE paper](https://arxiv.org/pdf/1809.05861.pdf)
