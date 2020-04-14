@@ -46,6 +46,8 @@ Some useful links:
 
 [f-VAE paper](https://arxiv.org/pdf/1809.05861.pdf)
 
+[VAE-GAN description](https://towardsdatascience.com/what-the-heck-are-vae-gans-17b86023588a)
+
 ## Anomaly detection
 
 [Anomaly detection resources](https://github.com/yzhao062/anomaly-detection-resources)
