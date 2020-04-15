@@ -2,6 +2,10 @@ Some useful links:
 
 [Useful things](https://github.com/franciscovillaescusa/ML_examples/blob/master/useful/useful.pdf)
 
+## Entropies
+
+[Maximum likelihood and cross entropy](https://jhui.github.io/2017/01/05/Deep-learning-Information-theory/)
+
 ## Neural networks
 
 [General introduction](https://www.youtube.com/watch?v=aircAruvnKk)
