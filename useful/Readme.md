@@ -57,3 +57,7 @@ Some useful links:
 [Anomaly detection resources](https://github.com/yzhao062/anomaly-detection-resources)
 
 [GANs for anomaly detection](https://arxiv.org/pdf/1906.11632.pdf)
+
+## Wassenstein distance
+
+[Wassenstein distance](https://www.youtube.com/watch?v=U7xdiGc7IRU)
