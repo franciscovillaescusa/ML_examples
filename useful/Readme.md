@@ -61,4 +61,7 @@ Some useful links:
 ## Wassenstein distance
 
 [Wassenstein distance](https://www.youtube.com/watch?v=U7xdiGc7IRU)
+
 [Sinkhorn distance](https://dfdazac.github.io/sinkhorn.html)
+
+[Kantorovich-Rubinstein Duality](https://vincentherrmann.github.io/blog/wasserstein/)
