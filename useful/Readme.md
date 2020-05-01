@@ -36,6 +36,8 @@ Some useful links:
 
 [GAN failure mode](https://machinelearningmastery.com/practical-guide-to-gan-failure-modes/)
 
+[Gulrajani 2017](https://arxiv.org/pdf/1704.00028.pdf)
+
 ## Saliency maps
 
 [Saliency maps](https://medium.com/datadriveninvestor/visualizing-neural-networks-using-saliency-maps-in-pytorch-289d8e244ab4)
