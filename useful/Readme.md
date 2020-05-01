@@ -67,3 +67,7 @@ Some useful links:
 [Sinkhorn distance](https://dfdazac.github.io/sinkhorn.html)
 
 [Kantorovich-Rubinstein Duality](https://vincentherrmann.github.io/blog/wasserstein/)
+
+[Distances for anomaly detection](https://www.youtube.com/watch?v=U7xdiGc7IRU)
+
+[Distances blog](https://www.datadoghq.com/blog/engineering/robust-statistical-distances-for-machine-learning/)
