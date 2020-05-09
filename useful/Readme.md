@@ -71,3 +71,7 @@ Some useful links:
 [Distances for anomaly detection](https://www.youtube.com/watch?v=U7xdiGc7IRU)
 
 [Distances blog](https://www.datadoghq.com/blog/engineering/robust-statistical-distances-for-machine-learning/)
+
+## Isolation forest
+
+[Isolation forest](https://towardsdatascience.com/outlier-detection-with-isolation-forest-3d190448d45e)
