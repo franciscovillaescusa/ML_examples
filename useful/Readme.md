@@ -75,3 +75,7 @@ Some useful links:
 ## Isolation forest
 
 [Isolation forest](https://towardsdatascience.com/outlier-detection-with-isolation-forest-3d190448d45e)
+
+## Neural nets errors
+
+[Levasseur 17](https://arxiv.org/pdf/1708.08843.pdf)
