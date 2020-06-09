@@ -79,3 +79,7 @@ Some useful links:
 ## Neural nets errors
 
 [Levasseur 17](https://arxiv.org/pdf/1708.08843.pdf)
+
+# Software
+
+[Hyperparameter search](http://hyperopt.github.io/hyperopt/)
